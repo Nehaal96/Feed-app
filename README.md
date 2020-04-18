@@ -1,5 +1,7 @@
 # Feed-app  in React Native
 
+![Alt Text](https://imgflip.com/gif/3x4utx)
+
 1. Login page 
 2. Home Page
 
