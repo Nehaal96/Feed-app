@@ -1,6 +1,6 @@
 # Feed-app  in React Native
 
-<a href="https://gifyu.com/image/lQ1w"><img src="https://s6.gifyu.com/images/ezgif.com-video-to-giffea3929c375b0cb0.gif" alt="ezgif.com-video-to-giffea3929c375b0cb0.gif" border="0" /></a>
+[![ezgif.com-video-to-giffea3929c375b0cb0.gif](https://s6.gifyu.com/images/ezgif.com-video-to-giffea3929c375b0cb0.gif)](https://gifyu.com/image/lQ1w)
 
 1. Login page 
 2. Home Page
