@@ -1,7 +1,6 @@
 # Feed-app  in React Native
 
-<img src="https://imgflip.com/gif/3x4utx" width="40" height="40" />
-
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:217.69%;position:relative;"><iframe width="260" height="566" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3x4utx"></iframe></div>/div>
 1. Login page 
 2. Home Page
 
