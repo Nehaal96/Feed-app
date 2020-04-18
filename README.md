@@ -1,6 +1,6 @@
 # Feed-app  in React Native
 
-![Alt Text](https://imgflip.com/gif/3x4utx)
+<img src="https://imgflip.com/gif/3x4utx" width="40" height="40" />
 
 1. Login page 
 2. Home Page
