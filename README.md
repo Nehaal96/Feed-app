@@ -1,6 +1,8 @@
 # Feed-app  in React Native
 
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:217.69%;position:relative;"><iframe width="260" height="566" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3x4utx"></iframe></div><p><a href="https://imgflip.com/gif/3x4utx">via Imgflip</a></p></div>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="https://imgflip.com/gif/3x4utx" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 1. Login page 
 2. Home Page
